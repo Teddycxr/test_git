@@ -1,4 +1,7 @@
 import os
 
 def cat():
-    pass
+
+    padd = 6
+
+   return padd 
